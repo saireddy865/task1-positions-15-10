@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 24px;
+    text-align: justify;
+    margin-top: 90px;
+}
+
+div {
+    background-color: black;
+    color: azure;
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    position:fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+}
